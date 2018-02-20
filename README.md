@@ -23,3 +23,8 @@ Répartition initiale des populations:
 • Vitesse de reproduction des gazelles (repopulation).
 • Rencontre entre proie et prédateur (nombre).
 • Vitesse de course des Gazelles.
+
+Aujourd'hui nous avons présenté notre projet.
+Nous avons vu différents paramètres, nous avons sélectionnés ceux qui nous ont semblait être les plus pertinents.
+Nous allons rajouter peut être 2 ou 3 paramètres avant la semaine prochaine.
+
