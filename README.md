@@ -3,7 +3,7 @@
 KEDJAR Damien 
 FOUAISSI Wassim
 TEP Rémy
-DUPONT Benjamin
+NABET Benjamin
 
  Pb: Comment varie l'éco-système, la population entre les lions et les gazelles?
  
@@ -23,6 +23,7 @@ Répartition initiale des populations:
 • Vitesse de reproduction des gazelles (repopulation).
 • Rencontre entre proie et prédateur (nombre).
 • Vitesse de course des Gazelles.
+
 
 Aujourd'hui nous avons présenté notre projet.
 Nous avons vu différents paramètres, nous avons sélectionnés ceux qui nous ont semblait être les plus pertinents.
